@@ -1,6 +1,7 @@
 Welcome! This project involves analyzing customer data from a banking dataset to understand key customer attributes, retention, and satisfaction trends. The dataset includes various metrics on customer demographics, account balance, credit scores, and product usage, providing insights into customer behavior.
 
 Key Insights
+
 Customer Retention & Exited:
 
 Analyzing customer attributes (such as credit score, age, balance, tenure) to determine why customers choose to exit the bank.
