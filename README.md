@@ -1,1 +1,1 @@
-# banking-customer-analysis
+This project involves analyzing customer data from a banking or financial services dataset to understand key customer attributes, retention, and satisfaction trends. The dataset includes various metrics on customer demographics, account balance, credit scores, and product usage, providing insights into customer behavior.# banking-customer-analysis
